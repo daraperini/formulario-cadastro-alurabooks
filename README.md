@@ -11,6 +11,7 @@ To see the final result, click [here](https://formulario-cadastro-alurabooks.ver
 * API ViaCEP
 
 *As the layout was provided by the school the images of the page might not be available*
+
 *(Alura is a Brazilian technology school and for acessibility reasons this code is in Portuguese)*
 
 #
