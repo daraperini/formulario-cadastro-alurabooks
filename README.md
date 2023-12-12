@@ -5,13 +5,12 @@ Initially I used *fetch* and the *.then()* method for the implementation. Afterw
 
 To see the final result, click [here](https://formulario-cadastro-alurabooks.vercel.app/).
 
-*As the layout was provided by the school the images of the page might not be available*
-
 ## Used tools:
 
 * JavaScript
 * API ViaCEP
 
+*As the layout was provided by the school the images of the page might not be available*
 *(Alura is a Brazilian technology school and for acessibility reasons this code is in Portuguese)*
 
 #
