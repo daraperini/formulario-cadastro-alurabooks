@@ -27,3 +27,5 @@ Para acessar o resultado final da página, clique [aqui](https://formulario-cada
 
 * JavaScript
 * API ViaCEP
+
+*Como o layout da página foi fornecido pela escola, as imagens da página podem não estar disponíveis.*
